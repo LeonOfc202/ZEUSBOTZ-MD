@@ -453,7 +453,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
              {
               urlButton: {
                displayText: 'CHAT OWNER',
-               PhoneNumber: 'https://wa.me/6289625556161'
+               PhoneNumber: 'https://wa.me/6287760550924'
              }
            },
   
@@ -523,18 +523,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Selamat DiniHari🌃"
+  res = "Ohayo🌃"
   if (time >= 4) {
-    res = "Selamat Pagi🏞️"
+    res = "Ohayo Gozaimas🏞️"
   }
   if (time > 10) {
-    res = "Selamat Siang🏙️"
+    res = "Kon'nichiwa🏙️"
   }
   if (time >= 15) {
-    res = "Selamat Sore🌇"
+    res = "Kon'nichiwa 🌇"
   }
   if (time >= 18) {
-    res = "Selamat Malam🌌"
+    res = "Oyasuminasai🌌"
   }
   return res
 }
