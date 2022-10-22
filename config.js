@@ -21,7 +21,7 @@ let wktus = moment.tz('Asia/Jakarta').format('ss')
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['6289625556161','62831433937633', '62896255561617'] // Put your number here
+global.owner = ['6287760550924','6287760550924', '6287760550924'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -64,15 +64,15 @@ global.APIKeys = { // APIKey Here
 //Kata apikey ubah jadi apikey lu dengan beli di website nya
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ZEUSBOTZ-MD'
-global.author = `By Pilar`
-global.wm = 'ZEUS BOT - MD' 
+global.stiker_wait = 'Stiker Sedang Di Buat Sayang [ WAIT ]'
+global.packname = 'Nana-MD'
+global.author = `By Owner`
+global.wm = 'Nana BOT - MD' 
 global.watermark = wm
-global.instagram = 'https://instagram.com/not_pilar32'
+global.instagram = 'https://instagram.com/leon_ofc202'
 global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}`
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.github = 'https://github.com/PilarV2'
+global.github = 'https://github.com/LeonOfc202'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*L O A D I N G*_'
 global.eror = '_*Server Error*_'
